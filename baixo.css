@@ -1,0 +1,80 @@
+.rowGrid3 {
+  padding: 50px 45px;
+}
+
+.grid3 {
+  padding: 0px 45px;
+}
+
+.imgGrid3 {
+width: 100%;
+height: auto;
+background-size: cover;
+background-position: center;
+}
+
+.tittleGrid3 {
+  text-align: center;
+  margin: 0;
+  padding: 30px 15px;
+}
+
+.para3 {
+  color: grey;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.saibaMais {
+  margin-top: 35px;
+  padding: 10px 20px;
+  text-align: center;
+  color: white;
+  background: #b82f14;
+  font-size: 12px;
+  border: none;
+  letter-spacing: 1px;
+}
+
+.rowGrid4 {
+  padding: 0 28px;
+  text-align: center;
+}
+
+.grid4 {
+  padding: 50px 45px;
+}
+
+.portrait {
+  background: black;
+  width: 50%;
+  padding-bottom: 50%;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.para4 {
+  color: grey;
+  margin: 0;
+  padding-top: 25px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.nomeEmprego {
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.stars {
+  margin-top: 20px;
+}
+
+.glyphicon-star {
+  color: #f77f2e;
+}
+
+/* RETIRAR DEPOIS */
+hr {
+  margin: 40px 0;
+}
